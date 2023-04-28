@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Lat2_IF10K_10120906_SansanFajrian'

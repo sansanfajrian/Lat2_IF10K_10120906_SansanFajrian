@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">10120906_Lat2_Bloodshare</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="Login">Login</string>
+    <string name="verify">Verify</string>
+    <string name="connect">Connect with Facebook</string>
+    <string name="or">OR</string>
+    <string name="registerchoice">"Doesn't Have Account? "</string>
+    <string name="imgdesc">Home Logo</string>
+    <string name="mail">E-Mail</string>
+    <string name="number">Phone Number</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="repass">Retype Password</string>
+    <string name="almost">Almost There</string>
+    <string name="thanks">Thank you for registering with us. One more step, you need to check your email to activate your account</string>
+    <string name="pers">Personal</string>
+    <string name="org">Organization</string>
+    <string name="home">Home Address</string>
+    <string name="loc">Default Location</string>
+    <string name="register">Register</string>
+    <string name="agree">Agree with Terms and Condition</string>
+    <string name="send">Send</string>
+    <string name="veracc">Verify your Account</string>
+    <string name="checkmail">We have send verification code on your e-mail</string>
+    <string name="codehint">"Enter your verification code here..."</string>
+    <string name="resend">"Doesn't get the code? "</string>
+    <string name="resendtwo">Resend</string>
+    <string name="blood">Blood Type</string>
+    <string name="res">Reshus</string>
+    <string-array name="bloodtype">
+        <item>Blood Type</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="reshus">
+        <item>Reshus</item>
+        <item>+</item>
+        <item>-</item>
+    </string-array>
+    <string-array name="kerja">
+        <item>Work</item>
+        <item>Accountant</item>
+        <item>Writer</item>
+        <item>Doctor</item>
+        <item>Business</item>
+        <item>Other</item>
+    </string-array>
+    <string name="namaprofil">Sansan Fajrian</string>
+    <string name="tipedarahprofil">Blood Type : B</string>
+    <string name="beri">75</string>
+    <string name="terima">100</string>
+    <string name="makasih">330</string>
+    <string name="give">BLOOD GIVE</string>
+    <string name="received">BLOOD RECEIVED</string>
+    <string name="thanks2">THANKS</string>
+    <string name="cari">Search Donor</string>
+    <string name="search">Search donor near you</string>
+    <string name="butuh">Blood Needed</string>
+    <string name="needed">5 Users need blood</string>
+    <string name="pesan">Message</string>
+    <string name="message">15 New messages</string>
+    <string name="sejarah">Donor History</string>
+    <string name="history">10 Gives, 5 Received</string>
+    <string name="header">Header</string>
+    <string name="backbtn">Back Button</string>
+</resources>
